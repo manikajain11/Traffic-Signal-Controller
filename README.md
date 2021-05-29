@@ -7,7 +7,10 @@ Traffic control is a challenging problem in many cities. This is due to the larg
 
 The project draws inspiration from the traffic congestion in front of the Main Gate of our university, Delhi Technological University. The said place constitutes a 3-way road junction. I have first developed a novel sensor based TLC and compared the same with traditional timer based TLCs. Further, I have extrapolated the models to the 4-way traffic junctions.
 
-![image](https://user-images.githubusercontent.com/72864182/120063360-72d96d00-c084-11eb-8217-fd09306ea7e9.png)
+<div align="center">
+<img src=https://user-images.githubusercontent.com/72864182/120063360-72d96d00-c084-11eb-8217-fd09306ea7e9.png" >
+<p>4-Way Junction of Roads</p>
+</div>
 
 Through this project I will design an FPGA based intelligent traffic light controller for a 4-road junction, as shown in the figure. 
 There are numerous advantages of working with FPGAs instead of ASIC or microcontrollers for such an application, some being reduced cost, real time programmability and higher processing speeds. Therefore, I will base our traffic controller on FPGA. 
